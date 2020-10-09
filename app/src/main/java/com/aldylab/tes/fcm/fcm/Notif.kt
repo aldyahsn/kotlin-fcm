@@ -13,7 +13,7 @@ class Notif {
 
     companion object {
 
-        const val TAG:String = "Notif"
+        const val TAG:String = "FCM-NOTIF"
 
         fun getToken(_context: Context) {
             FirebaseInstanceId.getInstance().instanceId

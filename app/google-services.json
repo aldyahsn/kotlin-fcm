@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260503888377",
+    "firebase_url": "https://aldylab-tes.firebaseio.com",
+    "project_id": "aldylab-tes",
+    "storage_bucket": "aldylab-tes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260503888377:android:5ec72f58620110680f9d28",
+        "android_client_info": {
+          "package_name": "com.aldylab.tes.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260503888377-o2hg655102trcth36ek8ifcd7ipkccgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTQjAD5IKMZPEMmBH1nT3i5-Ufsz9wto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260503888377-o2hg655102trcth36ek8ifcd7ipkccgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
